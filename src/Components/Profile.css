@@ -1,0 +1,104 @@
+.rectangle1{
+    height: 20px;
+    width: 100%;
+    background-color: #002647;
+    
+}
+.top-bar{
+    font-size: 20px;
+    padding-left: 3%;
+    color: #012E57;
+    padding-top: 4%;
+}
+.top-bar-details{
+    padding-left: 10px;
+}
+.details{
+    padding-left: 5%;
+}
+.name{
+    color: #012E57;
+    font-size: 20px;
+}
+.patient-id{
+    color: #012E57;
+    font-size: 15px;
+}
+.user-logo{
+   padding-left: 17%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.goal{
+    padding-top: 3%;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 20px;
+}
+.rectangle{
+    height: 160px;
+    width:95%;
+    background-color: #002647;
+    box-shadow: 5px 10px #D9D9D9;
+    border-radius: 25px;
+    
+}
+.container-2{
+    margin: auto;
+}
+.semi-1{  
+    width: 180px;
+    height: 100px;
+    background-color: #D9D9D9;
+    border-radius: 100px 100px 0 0;
+    position: relative;
+    margin-right: 50px;
+}
+.semi-2{
+    width: 150px;
+    height: 85px;
+    background-color: #002647;
+    border-radius: 74px 74px 0 0;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.per{
+    margin-top: 26%;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+.rectangle-2{
+    height: 50px;
+    width: 65px;
+    background-color: white;
+    border-radius: 5px;
+}
+.chart-1{
+    height: 40px;
+    padding-bottom: 100%;
+    color: lightgreen;
+}
+.key{
+    font-size: 13px;
+    width:40%;
+    color: #BCBCBC;
+}
+.value{
+    font-size: 12.4px;
+    color: #012E57;
+}
+
+.line{
+    color: #D9D9D9;
+}
+.key-1{
+    font-size: 13px;
+    width:35%;
+    color: #012E57;
+    font-weight: 500;
+}
